@@ -36,5 +36,5 @@ Una ves cargado los datos se pueden utilizar las distintas opciones para el filt
 + La opción "Periodo" permite variar la fecha inicial y fecha final en que se quiere visualizar el grafico.
 + La opcion "Intervalo Activo" permite escibir el nuevo valor del intervalo activo en minutos y modificarlo.
 + No se puede filtrar por compañia y cliente al mismo tiempo.
-+ La unica forma de volver a visualizar nuevamente todos los datos una ves aplicado algun filtro es con la opción Compañias -> Todas las Compañías
++ Para volver a visualizar nuevamente todos los datos una ves aplicado algun filtro se debe ir a la opción Compañias -> Todas las Compañías o ir a la opción Clientes -> Elegir Cliente y escribir "0".
 
