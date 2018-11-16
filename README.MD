@@ -34,7 +34,7 @@ Una ves cargado los datos se pueden utilizar las distintas opciones para el filt
 + La opción "Compañías" permite seleccionar una compañia especifica y graficar solo los datos de dicha compañia. En caso de selccionar la opcion "Todas Las Compañias" se graficaran todos los datos.
 + La opción "Clientes" permite escribir el numero de ID de un cliente especifico y graficar solo los datos de dicho cliente. 
 + La opción "Periodo" permite variar la fecha inicial y fecha final en que se quiere visualizar el grafico.
-+ La opcion "Intervalo Activo" permite modificar el valor del intervalo activo.
++ La opcion "Intervalo Activo" permite escibir el nuevo valor del intervalo activo en minutos y modificarlo.
 
 La unica forma de volver a visualizar todos los datos una ves aplicado algun filtro es con la opción Compañias -> Todas las Compañías
 
