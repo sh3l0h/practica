@@ -5,7 +5,7 @@ Con esta interfaz se busca leer, mostrar y filtrar le información extraida de u
 
 Como ejecutar la aplicación
 --------------------
-La aplicacion es un archivo con extension .jar, por lo que es necesario tener instalado java para poder ejecutarlo, independiente del sistema operativo.
+La aplicacion es un archivo con extension .jar, por lo que es necesario tener instalado java para poder ejecutarlo, sea cual sea el sistema operativo a utilizar.
 La ultima version de java se puede descargar en https://www.java.com/en/download/.
 
 + Para ejecutar en windows:  
