@@ -9,6 +9,7 @@ La aplicacion es un archivo con extension .jar, por lo que es necesario tener in
 La ultima version de java se puede descargar en https://www.java.com/en/download/.
 
 + Para ejecutar en windows:  
+Simplemente hacer dobleclick en el archivo Practica.jar
 
 
 
